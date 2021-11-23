@@ -23,6 +23,11 @@
 #### 🔧 Others 🔧
 ![](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 💬 Find me at 💬
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-greco)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](facundogrecor@gmail.com)
+
+
 
 
 
